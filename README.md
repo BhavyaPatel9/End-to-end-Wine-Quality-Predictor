@@ -60,7 +60,7 @@ python app.py
 
 	1. Build docker image of the source code
 
-	2. Push your docker image to ECR
+	2. Push your docker image to ECR(Elastic container registery)
 
 	3. Launch Your EC2 
 
@@ -76,7 +76,7 @@ python app.py
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 970547337635.dkr.ecr.ap-south-1.amazonaws.com/mlproj
+    - Save the URI: 941377122086.dkr.ecr.ap-south-1.amazonaws.com/mlproj
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
